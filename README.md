@@ -1,6 +1,6 @@
 ### Hi, im vinayak 👋
 
-Im a freelancer intrested in TALL stack development. I love gaming, trading BTC and if i have any ideas for an application i build it myself. 
+Im a freelancer intrested in TALL stack development. I built cool shit on Laravel. 
 
 
 ## Open Source Projects
