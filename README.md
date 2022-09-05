@@ -1,7 +1,7 @@
 ### Hi, im vinayak 👋
 
 Im a TALL stack developer, freelancing who loves laravel and the whole ecosystem it provides.
-hey
+
 
 ## Open Source Projects
 
